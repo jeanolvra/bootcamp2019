@@ -1,5 +1,5 @@
-const express = require("express");
-const routes = require("./routes");
+import express from "express";
+import routes from "./routes";
 
 // Criando a classe App
 class App {
@@ -21,4 +21,4 @@ class App {
 }
 
 // Instanciondo o Objeto App
-module.exports = new App().server;
+export default new App().server;
