@@ -6,7 +6,6 @@ module.exports = {
   database: 'gobarber',
   define: {
     timestamps: true,
-    // Criação de tabelas em underscore
     underscored: true,
     underscoredAll: true,
   },
