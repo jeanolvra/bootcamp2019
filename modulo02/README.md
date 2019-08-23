@@ -1,4 +1,4 @@
-# Modulo 02 Inidiando o Backend do GoBarber
+# Modulo 02 - Iniciando o back-end do GoBarber
 
 Neste modulo foram abordados os seguintes assuntos:
 
@@ -9,7 +9,8 @@ Neste modulo foram abordados os seguintes assuntos:
 5. ESLint, Prettier & EditorConfig
 6. Migrations
 7. Models
-8. Gerando Hash
+8. Gerando hash de passwords
 9. Autenticação JWT
 10. Middlewares de autenticação
 11. Validação com Yup
+12. Postgres
