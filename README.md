@@ -1,4 +1,7 @@
-# Assuntos Abordados até o momento : 22/08/2019
+![Rocketseat GoStack](assets/images/logo-rocketseat.svg)
+
+# Bootcamp Rocketseat
+## Assuntos Abordados até o momento : 22/08/2019
 
 ## Modulo 01 - Conceitos de Node.js
 
@@ -10,8 +13,7 @@
 4. Nodemon
 5. CRUD com node
 6. Middlewares
-7. Debug com Vscode em código Node
-
+7. Debug com Vscode em código Node<br/><br/>
 ## Modulo 02 - Iniciando o Backend do GoBarber
 
 ### Neste modulo foram abordados os seguintes assuntos:
@@ -27,4 +29,7 @@
 9. Autenticação JWT
 10. Middlewares de autenticação
 11. Validação com Yup
-12. Postgres
+12. Postgres<br/><br/>
+
+
+![Rocketseat GoStack](assets/images/logo-gostack.svg)
