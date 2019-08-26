@@ -58,6 +58,7 @@ class AppointmentController {
         .status(401)
         .json({ error: 'You can only create appointments with providers' });
     }
+
     /**
      * startOfHour pega o inicio da hora;
      * parseIso tranforma a data em formato date do javascript;
