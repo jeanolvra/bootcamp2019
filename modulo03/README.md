@@ -16,3 +16,5 @@ Neste modulo foram abordados os seguintes assuntos:
 12. Configuração com o Nodemailer
 13. Criando templates de emails com Handlebars
 14. Configuração de fila de jobs com Node Redis 
+15. Configurando Jobs com BeQueue
+16. Monitorando falhas na fila com BeQue e Redis
