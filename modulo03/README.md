@@ -18,3 +18,7 @@ Neste modulo foram abordados os seguintes assuntos:
 14. Configuração de fila de jobs com Node Redis 
 15. Configurando Jobs com BeQueue
 16. Monitorando falhas na fila com BeQue e Redis
+17. Listando horários disponiveis
+18. Campos virtuais no agendamento
+19. Tratamento de exceções
+12 Variáveis de ambiente
